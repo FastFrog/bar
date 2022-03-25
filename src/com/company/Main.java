@@ -10,6 +10,7 @@ public class Main {
         Client Liza = new Client("Liza", 16, 450, false);
         Client Fast = new Client("Angelina", 16, 200, false);
         Client Abo = new Client("Abylai", 20, 10000, true);
+        Client Niet = new Client("Niet", 20, 1, false);
 
         Barmen Dana = new Barmen("Dana", 17, 3000);
         Bounced Duka = new Bounced("Duka", 19, 3000, 40);
